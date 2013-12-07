@@ -1,0 +1,16 @@
+body { 
+	color: #F0F7FF;
+    background-color: #000000;
+}
+
+#navigation {
+   position: absolute;
+   width: 300px;
+   border-right: 1px solid #C6EC8C;
+   font-weight: normal;
+}
+ 
+#centerDoc {
+   max-width: 600px;
+   margin-left: 350px;
+}
